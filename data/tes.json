@@ -1,0 +1,416 @@
+[
+  {
+    "category": "True Tea",
+    "description": "Teas made from leaves of the Camellia sinensis plant",
+    "teas": [
+      {
+        "id": 1,
+        "name": "Green Tea",
+        "origin": "China",
+        "consumption_countries": [
+          "China",
+          "Japan",
+          "Korea",
+          "Morocco",
+          "Western countries"
+        ],
+        "ingredients": [
+          {
+            "name": "Camellia sinensis leaves",
+            "origin": "China, Japan, India",
+            "processing": "Steamed or pan-fired to prevent oxidation",
+            "flavor_contribution": "Fresh, vegetal, slightly astringent"
+          }
+        ],
+        "flavor_profile": "Grassy, fresh, with subtle sweetness",
+        "benefits": "High in antioxidants, may boost metabolism"
+      },
+      {
+        "id": 2,
+        "name": "Black Tea",
+        "origin": "China (later popularized in India)",
+        "consumption_countries": [
+          "India",
+          "UK",
+          "Turkey",
+          "Ireland",
+          "Russia"
+        ],
+        "ingredients": [
+          {
+            "name": "Fermented Camellia sinensis leaves",
+            "origin": "Assam (India), Sri Lanka, Kenya, China",
+            "processing": "Fully oxidized",
+            "flavor_contribution": "Robust, malty, sometimes smoky"
+          }
+        ],
+        "flavor_profile": "Strong, bold, with varying notes from malty to fruity",
+        "benefits": "May improve heart health, contains caffeine for alertness"
+      },
+      {
+        "id": 3,
+        "name": "Oolong Tea",
+        "origin": "Fujian province, China",
+        "consumption_countries": [
+          "China",
+          "Taiwan",
+          "Japan",
+          "Southeast Asia"
+        ],
+        "ingredients": [
+          {
+            "name": "Partially oxidized Camellia sinensis leaves",
+            "origin": "Fujian (China), Taiwan",
+            "processing": "Oxidized 8-85%, often rolled or twisted",
+            "flavor_contribution": "Complex floral to toasty notes"
+          }
+        ],
+        "flavor_profile": "Ranges from floral and light to rich and woody",
+        "benefits": "May aid digestion, balance between green and black tea benefits"
+      },
+      {
+        "id": 4,
+        "name": "White Tea",
+        "origin": "Fujian province, China",
+        "consumption_countries": [
+          "China",
+          "Japan",
+          "Western health-conscious markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Young Camellia sinensis leaves and buds",
+            "origin": "Primarily Fujian (China)",
+            "processing": "Minimally processed, simply withered and dried",
+            "flavor_contribution": "Delicate, sweet, subtle"
+          }
+        ],
+        "flavor_profile": "Light, sweet, with honey or melon notes",
+        "benefits": "Highest antioxidant content among teas, gentle on stomach"
+      }
+    ]
+  },
+  {
+    "category": "Herbal Tea",
+    "description": "Infusions made from herbs, fruits, seeds, or roots other than Camellia sinensis",
+    "teas": [
+      {
+        "id": 5,
+        "name": "Chamomile Tea",
+        "origin": "Ancient Egypt",
+        "consumption_countries": [
+          "Egypt",
+          "Europe",
+          "North America"
+        ],
+        "ingredients": [
+          {
+            "name": "Dried chamomile flowers",
+            "origin": "Egypt, Germany, Hungary",
+            "processing": "Flowers dried naturally",
+            "flavor_contribution": "Floral, apple-like, slightly sweet"
+          }
+        ],
+        "flavor_profile": "Mild, floral, with honey-like sweetness",
+        "benefits": "Promotes relaxation and sleep, soothes digestion"
+      },
+      {
+        "id": 6,
+        "name": "Peppermint Tea",
+        "origin": "Mediterranean region",
+        "consumption_countries": [
+          "North Africa",
+          "Middle East",
+          "Europe",
+          "Americas"
+        ],
+        "ingredients": [
+          {
+            "name": "Dried peppermint leaves",
+            "origin": "USA, UK, Mediterranean countries",
+            "processing": "Leaves dried and sometimes crushed",
+            "flavor_contribution": "Cooling, refreshing, slightly sweet"
+          }
+        ],
+        "flavor_profile": "Strong minty freshness with clean finish",
+        "benefits": "Aids digestion, relieves headaches, caffeine-free"
+      },
+      {
+        "id": 7,
+        "name": "Hibiscus Tea",
+        "origin": "West Africa",
+        "consumption_countries": [
+          "Egypt",
+          "Sudan",
+          "Mexico",
+          "Caribbean",
+          "Middle East"
+        ],
+        "ingredients": [
+          {
+            "name": "Dried hibiscus flowers",
+            "origin": "Sudan, Egypt, Mexico, Thailand",
+            "processing": "Calyces dried and sometimes crushed",
+            "flavor_contribution": "Tart, cranberry-like, vibrant red color"
+          }
+        ],
+        "flavor_profile": "Tart and fruity, often sweetened",
+        "benefits": "Rich in vitamin C, may lower blood pressure"
+      },
+      {
+        "id": 12,
+        "name": "Rooibos Tea",
+        "origin": "South Africa",
+        "consumption_countries": [
+          "South Africa",
+          "Germany",
+          "Japan",
+          "Global health markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Dried leaves of Aspalathus linearis",
+            "origin": "Cederberg region, South Africa",
+            "processing": "Fermented (red) or unfermented (green)",
+            "flavor_contribution": "Naturally sweet, nutty, slightly woody"
+          }
+        ],
+        "flavor_profile": "Sweet, earthy, with vanilla and honey notes",
+        "benefits": "Caffeine-free, high in antioxidants, may support heart health"
+      },
+      {
+        "id": 13,
+        "name": "Yerba Mate",
+        "origin": "South America (Paraguay, Argentina, Brazil)",
+        "consumption_countries": [
+          "Argentina",
+          "Paraguay",
+          "Uruguay",
+          "Southern Brazil",
+          "Syria"
+        ],
+        "ingredients": [
+          {
+            "name": "Dried leaves of Ilex paraguariensis",
+            "origin": "Argentina, Paraguay, Brazil",
+            "processing": "Dried over fire, sometimes aged",
+            "flavor_contribution": "Earthy, vegetal, slightly smoky"
+          }
+        ],
+        "flavor_profile": "Bitter, herbal, with smoky undertones",
+        "benefits": "Provides caffeine boost, rich in nutrients, may aid weight loss"
+      }
+    ]
+  },
+  {
+    "category": "Flavored Tea",
+    "description": "True teas with added flavors, flowers, spices, or oils",
+    "teas": [
+      {
+        "id": 8,
+        "name": "Earl Grey",
+        "origin": "England (inspired by Chinese teas)",
+        "consumption_countries": [
+          "UK",
+          "Commonwealth countries",
+          "Europe",
+          "North America"
+        ],
+        "ingredients": [
+          {
+            "name": "Black tea",
+            "origin": "China, India, Sri Lanka",
+            "processing": "Blended with bergamot oil",
+            "flavor_contribution": "Provides robust base flavor"
+          },
+          {
+            "name": "Bergamot oil",
+            "origin": "Calabria, Italy",
+            "processing": "Cold-pressed from bergamot orange rinds",
+            "flavor_contribution": "Citrusy, floral, distinctive aroma"
+          }
+        ],
+        "flavor_profile": "Balanced blend of bold tea and bright citrus",
+        "benefits": "Combines black tea benefits with uplifting citrus aroma"
+      },
+      {
+        "id": 9,
+        "name": "Jasmine Tea",
+        "origin": "Fujian province, China",
+        "consumption_countries": [
+          "China",
+          "Southeast Asia",
+          "Global markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Green tea",
+            "origin": "China",
+            "processing": "Scented with jasmine flowers",
+            "flavor_contribution": "Provides delicate base"
+          },
+          {
+            "name": "Jasmine flowers",
+            "origin": "Fujian, Guangxi (China)",
+            "processing": "Fresh flowers layered with tea",
+            "flavor_contribution": "Floral, sweet, aromatic"
+          }
+        ],
+        "flavor_profile": "Delicate floral notes over fresh green tea",
+        "benefits": "Calming effects from jasmine, antioxidants from green tea"
+      },
+      {
+        "id": 10,
+        "name": "Chai Tea",
+        "origin": "India",
+        "consumption_countries": [
+          "India",
+          "Pakistan",
+          "Global markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Black tea",
+            "origin": "Assam, India",
+            "processing": "Boiled with spices",
+            "flavor_contribution": "Strong base for spices"
+          },
+          {
+            "name": "Ginger",
+            "origin": "India, China",
+            "processing": "Fresh or dried root",
+            "flavor_contribution": "Warming, slightly spicy"
+          },
+          {
+            "name": "Cinnamon",
+            "origin": "Sri Lanka",
+            "processing": "Bark pieces or powder",
+            "flavor_contribution": "Sweet, woody warmth"
+          },
+          {
+            "name": "Cardamom",
+            "origin": "India, Guatemala",
+            "processing": "Whole or crushed pods",
+            "flavor_contribution": "Aromatic, slightly citrusy"
+          },
+          {
+            "name": "Cloves",
+            "origin": "Indonesia, Madagascar",
+            "processing": "Dried flower buds",
+            "flavor_contribution": "Pungent, sweet warmth"
+          },
+          {
+            "name": "Black pepper",
+            "origin": "India",
+            "processing": "Dried berries",
+            "flavor_contribution": "Subtle heat"
+          }
+        ],
+        "flavor_profile": "Spicy, warming, complex blend of sweet and heat",
+        "benefits": "Digestive aid from spices, energy from tea, often served with milk"
+      }
+    ]
+  },
+  {
+    "category": "Powdered Tea",
+    "description": "Teas consumed as powder mixed directly in water",
+    "teas": [
+      {
+        "id": 11,
+        "name": "Matcha",
+        "origin": "China (perfected in Japan)",
+        "consumption_countries": [
+          "Japan",
+          "Global health markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Ground green tea leaves",
+            "origin": "Uji (Japan), other tea-growing regions",
+            "processing": "Shade-grown, stone-ground",
+            "flavor_contribution": "Rich umami, vegetal, slightly sweet"
+          }
+        ],
+        "flavor_profile": "Creamy, vegetal, with natural sweetness",
+        "benefits": "High in antioxidants, provides calm energy from L-theanine"
+      }
+    ]
+  },
+  {
+    "category": "Tea Blend",
+    "description": "Mixtures of different teas or teas with other ingredients",
+    "teas": [
+      {
+        "id": 14,
+        "name": "English Breakfast",
+        "origin": "Scotland (popularized in England)",
+        "consumption_countries": [
+          "UK",
+          "Ireland",
+          "Commonwealth countries",
+          "USA"
+        ],
+        "ingredients": [
+          {
+            "name": "Assam tea",
+            "origin": "India",
+            "processing": "Fully oxidized",
+            "flavor_contribution": "Malty, robust"
+          },
+          {
+            "name": "Ceylon tea",
+            "origin": "Sri Lanka",
+            "processing": "Fully oxidized",
+            "flavor_contribution": "Bright, citrusy"
+          },
+          {
+            "name": "Kenyan tea",
+            "origin": "Kenya",
+            "processing": "Fully oxidized",
+            "flavor_contribution": "Strong, brisk"
+          }
+        ],
+        "flavor_profile": "Full-bodied, robust, goes well with milk",
+        "benefits": "Morning caffeine boost, heart-healthy flavonoids"
+      },
+      {
+        "id": 15,
+        "name": "Masala Chai",
+        "origin": "India",
+        "consumption_countries": [
+          "India",
+          "Global markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Black tea",
+            "origin": "Assam, India",
+            "processing": "Boiled with spices",
+            "flavor_contribution": "Strong base flavor"
+          },
+          {
+            "name": "Milk",
+            "origin": "Local dairy",
+            "processing": "Often boiled with tea",
+            "flavor_contribution": "Creaminess, mellows spices"
+          },
+          {
+            "name": "Sugar",
+            "origin": "Local sources",
+            "processing": "Added to taste",
+            "flavor_contribution": "Balances spice heat"
+          },
+          {
+            "name": "Spice blend",
+            "origin": "Local recipes vary",
+            "processing": "Fresh or dried",
+            "flavor_contribution": "Complex warmth"
+          }
+        ],
+        "flavor_profile": "Creamy, spicy, sweet, complex",
+        "benefits": "Digestive benefits from spices, energy from tea"
+      }
+    ]
+  }
+]
+
