@@ -11,7 +11,11 @@ import (
 )
 
 func main() {
-	port := ":8080"
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+
 	dataPath := os.Getenv("TEA_DATA_PATH")
 	if dataPath == "" {
 		dataPath = "data/tes.json"
@@ -29,6 +33,6 @@ func main() {
 	r.Get("/category", handlers.ListCategories)
 	r.Get("/category/{id}", handlers.GetCategoryByID)
 
-	log.Printf("Servidor funcionando en http://localhost%s", port)
-	log.Fatal(http.ListenAndServe(port, r))
+	log.Printf("Servidor funcionando en el puerto %s", port)
+	log.Fatal(http.ListenAndServe(":"+port, r))
 }
