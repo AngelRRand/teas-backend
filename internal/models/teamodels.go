@@ -14,6 +14,8 @@ type Te struct {
 	Ingredients          []Ingredient `json:"ingredients"`
 	Sabor                string       `json:"flavor_profile"`
 	Beneficio            string       `json:"benefits"`
+	Image                string       `json:"image"`
+	ImageWhite           string       `json:"imageWhite"`
 }
 
 type Ingredient struct {

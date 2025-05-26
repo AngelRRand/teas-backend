@@ -23,7 +23,9 @@
           }
         ],
         "flavor_profile": "Grassy, fresh, with subtle sweetness",
-        "benefits": "High in antioxidants, may boost metabolism"
+        "benefits": "High in antioxidants, may boost metabolism",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
       },
       {
         "id": 2,
@@ -45,7 +47,9 @@
           }
         ],
         "flavor_profile": "Strong, bold, with varying notes from malty to fruity",
-        "benefits": "May improve heart health, contains caffeine for alertness"
+        "benefits": "May improve heart health, contains caffeine for alertness",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
       },
       {
         "id": 3,
@@ -66,7 +70,9 @@
           }
         ],
         "flavor_profile": "Ranges from floral and light to rich and woody",
-        "benefits": "May aid digestion, balance between green and black tea benefits"
+        "benefits": "May aid digestion, balance between green and black tea benefits",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
       },
       {
         "id": 4,
@@ -86,7 +92,9 @@
           }
         ],
         "flavor_profile": "Light, sweet, with honey or melon notes",
-        "benefits": "Highest antioxidant content among teas, gentle on stomach"
+        "benefits": "Highest antioxidant content among teas, gentle on stomach",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
       }
     ]
   },
@@ -112,7 +120,9 @@
           }
         ],
         "flavor_profile": "Mild, floral, with honey-like sweetness",
-        "benefits": "Promotes relaxation and sleep, soothes digestion"
+        "benefits": "Promotes relaxation and sleep, soothes digestion",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715793/Manzanilla_gstpxq.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715792/Manzanilla_blanco_krdwqx.png"
       },
       {
         "id": 6,
@@ -133,7 +143,9 @@
           }
         ],
         "flavor_profile": "Strong minty freshness with clean finish",
-        "benefits": "Aids digestion, relieves headaches, caffeine-free"
+        "benefits": "Aids digestion, relieves headaches, caffeine-free",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746737003/peperina_fmdtnj.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746737003/Peperina_blanco_alvrui.png"
       },
       {
         "id": 7,
@@ -155,7 +167,9 @@
           }
         ],
         "flavor_profile": "Tart and fruity, often sweetened",
-        "benefits": "Rich in vitamin C, may lower blood pressure"
+        "benefits": "Rich in vitamin C, may lower blood pressure",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746750092/Ibiscus_tvbr0f.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746750093/Ibiscus_blanco_tmvwic.png"
       },
       {
         "id": 12,
@@ -176,7 +190,9 @@
           }
         ],
         "flavor_profile": "Sweet, earthy, with vanilla and honey notes",
-        "benefits": "Caffeine-free, high in antioxidants, may support heart health"
+        "benefits": "Caffeine-free, high in antioxidants, may support heart health",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944201/rooibos_tp67yg.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944205/rooibos_blanco_mgmxep.png"
       },
       {
         "id": 13,
@@ -198,7 +214,9 @@
           }
         ],
         "flavor_profile": "Bitter, herbal, with smoky undertones",
-        "benefits": "Provides caffeine boost, rich in nutrients, may aid weight loss"
+        "benefits": "Provides caffeine boost, rich in nutrients, may aid weight loss",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944185/yerbaMate_fdsaby.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944177/yerbaMate_blanco_jafkcg.png"
       }
     ]
   },
@@ -231,7 +249,9 @@
           }
         ],
         "flavor_profile": "Balanced blend of bold tea and bright citrus",
-        "benefits": "Combines black tea benefits with uplifting citrus aroma"
+        "benefits": "Combines black tea benefits with uplifting citrus aroma",
+        "image": "images/8.png",
+        "imageWhite": "images/white/8.png"
       },
       {
         "id": 9,
@@ -257,7 +277,9 @@
           }
         ],
         "flavor_profile": "Delicate floral notes over fresh green tea",
-        "benefits": "Calming effects from jasmine, antioxidants from green tea"
+        "benefits": "Calming effects from jasmine, antioxidants from green tea",
+        "image": "images/9.png",
+        "imageWhite": "images/white/9.png"
       },
       {
         "id": 10,
@@ -307,7 +329,9 @@
           }
         ],
         "flavor_profile": "Spicy, warming, complex blend of sweet and heat",
-        "benefits": "Digestive aid from spices, energy from tea, often served with milk"
+        "benefits": "Digestive aid from spices, energy from tea, often served with milk",
+        "image": "images/10.png",
+        "imageWhite": "images/white/10.png"
       }
     ]
   },
@@ -332,7 +356,9 @@
           }
         ],
         "flavor_profile": "Creamy, vegetal, with natural sweetness",
-        "benefits": "High in antioxidants, provides calm energy from L-theanine"
+        "benefits": "High in antioxidants, provides calm energy from L-theanine",
+        "image": "images/11.png",
+        "imageWhite": "images/white/11.png"
       }
     ]
   },
@@ -371,7 +397,9 @@
           }
         ],
         "flavor_profile": "Full-bodied, robust, goes well with milk",
-        "benefits": "Morning caffeine boost, heart-healthy flavonoids"
+        "benefits": "Morning caffeine boost, heart-healthy flavonoids",
+        "image": "images/14.png",
+        "imageWhite": "images/white/14.png"
       },
       {
         "id": 15,
@@ -408,9 +436,10 @@
           }
         ],
         "flavor_profile": "Creamy, spicy, sweet, complex",
-        "benefits": "Digestive benefits from spices, energy from tea"
+        "benefits": "Digestive benefits from spices, energy from tea",
+        "image": "images/15.png",
+        "imageWhite": "images/white/15.png"
       }
     ]
   }
 ]
-
