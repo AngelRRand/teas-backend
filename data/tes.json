@@ -1,104 +1,5 @@
 [
   {
-    "category": "True Tea",
-    "description": "Teas made from leaves of the Camellia sinensis plant",
-    "teas": [
-      {
-        "id": 1,
-        "name": "Green Tea",
-        "origin": "China",
-        "consumption_countries": [
-          "China",
-          "Japan",
-          "Korea",
-          "Morocco",
-          "Western countries"
-        ],
-        "ingredients": [
-          {
-            "name": "Camellia sinensis leaves",
-            "origin": "China, Japan, India",
-            "processing": "Steamed or pan-fired to prevent oxidation",
-            "flavor_contribution": "Fresh, vegetal, slightly astringent"
-          }
-        ],
-        "flavor_profile": "Grassy, fresh, with subtle sweetness",
-        "benefits": "High in antioxidants, may boost metabolism",
-        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
-        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
-      },
-      {
-        "id": 2,
-        "name": "Black Tea",
-        "origin": "China (later popularized in India)",
-        "consumption_countries": [
-          "India",
-          "UK",
-          "Turkey",
-          "Ireland",
-          "Russia"
-        ],
-        "ingredients": [
-          {
-            "name": "Fermented Camellia sinensis leaves",
-            "origin": "Assam (India), Sri Lanka, Kenya, China",
-            "processing": "Fully oxidized",
-            "flavor_contribution": "Robust, malty, sometimes smoky"
-          }
-        ],
-        "flavor_profile": "Strong, bold, with varying notes from malty to fruity",
-        "benefits": "May improve heart health, contains caffeine for alertness",
-        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
-        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
-      },
-      {
-        "id": 3,
-        "name": "Oolong Tea",
-        "origin": "Fujian province, China",
-        "consumption_countries": [
-          "China",
-          "Taiwan",
-          "Japan",
-          "Southeast Asia"
-        ],
-        "ingredients": [
-          {
-            "name": "Partially oxidized Camellia sinensis leaves",
-            "origin": "Fujian (China), Taiwan",
-            "processing": "Oxidized 8-85%, often rolled or twisted",
-            "flavor_contribution": "Complex floral to toasty notes"
-          }
-        ],
-        "flavor_profile": "Ranges from floral and light to rich and woody",
-        "benefits": "May aid digestion, balance between green and black tea benefits",
-        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
-        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
-      },
-      {
-        "id": 4,
-        "name": "White Tea",
-        "origin": "Fujian province, China",
-        "consumption_countries": [
-          "China",
-          "Japan",
-          "Western health-conscious markets"
-        ],
-        "ingredients": [
-          {
-            "name": "Young Camellia sinensis leaves and buds",
-            "origin": "Primarily Fujian (China)",
-            "processing": "Minimally processed, simply withered and dried",
-            "flavor_contribution": "Delicate, sweet, subtle"
-          }
-        ],
-        "flavor_profile": "Light, sweet, with honey or melon notes",
-        "benefits": "Highest antioxidant content among teas, gentle on stomach",
-        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
-        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
-      }
-    ]
-  },
-  {
     "category": "Herbal Tea",
     "description": "Infusions made from herbs, fruits, seeds, or roots other than Camellia sinensis",
     "teas": [
@@ -221,6 +122,105 @@
     ]
   },
   {
+    "category": "True Tea",
+    "description": "Teas made from leaves of the Camellia sinensis plant",
+    "teas": [
+      {
+        "id": 1,
+        "name": "Green Tea",
+        "origin": "China",
+        "consumption_countries": [
+          "China",
+          "Japan",
+          "Korea",
+          "Morocco",
+          "Western countries"
+        ],
+        "ingredients": [
+          {
+            "name": "Camellia sinensis leaves",
+            "origin": "China, Japan, India",
+            "processing": "Steamed or pan-fired to prevent oxidation",
+            "flavor_contribution": "Fresh, vegetal, slightly astringent"
+          }
+        ],
+        "flavor_profile": "Grassy, fresh, with subtle sweetness",
+        "benefits": "High in antioxidants, may boost metabolism",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
+      },
+      {
+        "id": 2,
+        "name": "Black Tea",
+        "origin": "China (later popularized in India)",
+        "consumption_countries": [
+          "India",
+          "UK",
+          "Turkey",
+          "Ireland",
+          "Russia"
+        ],
+        "ingredients": [
+          {
+            "name": "Fermented Camellia sinensis leaves",
+            "origin": "Assam (India), Sri Lanka, Kenya, China",
+            "processing": "Fully oxidized",
+            "flavor_contribution": "Robust, malty, sometimes smoky"
+          }
+        ],
+        "flavor_profile": "Strong, bold, with varying notes from malty to fruity",
+        "benefits": "May improve heart health, contains caffeine for alertness",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
+      },
+      {
+        "id": 3,
+        "name": "Oolong Tea",
+        "origin": "Fujian province, China",
+        "consumption_countries": [
+          "China",
+          "Taiwan",
+          "Japan",
+          "Southeast Asia"
+        ],
+        "ingredients": [
+          {
+            "name": "Partially oxidized Camellia sinensis leaves",
+            "origin": "Fujian (China), Taiwan",
+            "processing": "Oxidized 8-85%, often rolled or twisted",
+            "flavor_contribution": "Complex floral to toasty notes"
+          }
+        ],
+        "flavor_profile": "Ranges from floral and light to rich and woody",
+        "benefits": "May aid digestion, balance between green and black tea benefits",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
+      },
+      {
+        "id": 4,
+        "name": "White Tea",
+        "origin": "Fujian province, China",
+        "consumption_countries": [
+          "China",
+          "Japan",
+          "Western health-conscious markets"
+        ],
+        "ingredients": [
+          {
+            "name": "Young Camellia sinensis leaves and buds",
+            "origin": "Primarily Fujian (China)",
+            "processing": "Minimally processed, simply withered and dried",
+            "flavor_contribution": "Delicate, sweet, subtle"
+          }
+        ],
+        "flavor_profile": "Light, sweet, with honey or melon notes",
+        "benefits": "Highest antioxidant content among teas, gentle on stomach",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
+      }
+    ]
+  },
+  {
     "category": "Flavored Tea",
     "description": "True teas with added flavors, flowers, spices, or oils",
     "teas": [
@@ -250,8 +250,8 @@
         ],
         "flavor_profile": "Balanced blend of bold tea and bright citrus",
         "benefits": "Combines black tea benefits with uplifting citrus aroma",
-        "image": "images/8.png",
-        "imageWhite": "images/white/8.png"
+        "image": "",
+        "imageWhite": ""
       },
       {
         "id": 9,
@@ -278,8 +278,8 @@
         ],
         "flavor_profile": "Delicate floral notes over fresh green tea",
         "benefits": "Calming effects from jasmine, antioxidants from green tea",
-        "image": "images/9.png",
-        "imageWhite": "images/white/9.png"
+        "image": "",
+        "imageWhite": ""
       },
       {
         "id": 10,
@@ -330,8 +330,8 @@
         ],
         "flavor_profile": "Spicy, warming, complex blend of sweet and heat",
         "benefits": "Digestive aid from spices, energy from tea, often served with milk",
-        "image": "images/10.png",
-        "imageWhite": "images/white/10.png"
+        "image": "",
+        "imageWhite": ""
       }
     ]
   },
@@ -357,8 +357,8 @@
         ],
         "flavor_profile": "Creamy, vegetal, with natural sweetness",
         "benefits": "High in antioxidants, provides calm energy from L-theanine",
-        "image": "images/11.png",
-        "imageWhite": "images/white/11.png"
+        "image": "",
+        "imageWhite": ""
       }
     ]
   },
@@ -398,8 +398,8 @@
         ],
         "flavor_profile": "Full-bodied, robust, goes well with milk",
         "benefits": "Morning caffeine boost, heart-healthy flavonoids",
-        "image": "images/14.png",
-        "imageWhite": "images/white/14.png"
+        "image": "",
+        "imageWhite": ""
       },
       {
         "id": 15,
@@ -437,8 +437,8 @@
         ],
         "flavor_profile": "Creamy, spicy, sweet, complex",
         "benefits": "Digestive benefits from spices, energy from tea",
-        "image": "images/15.png",
-        "imageWhite": "images/white/15.png"
+        "image": "",
+        "imageWhite": ""
       }
     ]
   }
