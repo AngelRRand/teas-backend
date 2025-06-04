@@ -4,6 +4,30 @@
     "description": "Infusions made from herbs, fruits, seeds, or roots other than Camellia sinensis",
     "teas": [
       {
+        "id": 1,
+        "name": "Green Tea",
+        "origin": "China",
+        "consumption_countries": [
+          "China",
+          "Japan",
+          "Korea",
+          "Morocco",
+          "Western countries"
+        ],
+        "ingredients": [
+          {
+            "name": "Camellia sinensis leaves",
+            "origin": "China, Japan, India",
+            "processing": "Steamed or pan-fired to prevent oxidation",
+            "flavor_contribution": "Fresh, vegetal, slightly astringent"
+          }
+        ],
+        "flavor_profile": "Grassy, fresh, with subtle sweetness",
+        "benefits": "High in antioxidants, may boost metabolism",
+        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
+        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
+      },
+      {
         "id": 5,
         "name": "Chamomile Tea",
         "origin": "Ancient Egypt",
@@ -118,36 +142,6 @@
         "benefits": "Provides caffeine boost, rich in nutrients, may aid weight loss",
         "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944185/yerbaMate_fdsaby.png",
         "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1747944177/yerbaMate_blanco_jafkcg.png"
-      }
-    ]
-  },
-  {
-    "category": "True Tea",
-    "description": "Teas made from leaves of the Camellia sinensis plant",
-    "teas": [
-      {
-        "id": 1,
-        "name": "Green Tea",
-        "origin": "China",
-        "consumption_countries": [
-          "China",
-          "Japan",
-          "Korea",
-          "Morocco",
-          "Western countries"
-        ],
-        "ingredients": [
-          {
-            "name": "Camellia sinensis leaves",
-            "origin": "China, Japan, India",
-            "processing": "Steamed or pan-fired to prevent oxidation",
-            "flavor_contribution": "Fresh, vegetal, slightly astringent"
-          }
-        ],
-        "flavor_profile": "Grassy, fresh, with subtle sweetness",
-        "benefits": "High in antioxidants, may boost metabolism",
-        "image": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746561857/Camelia_sinensis_zvylm6.png",
-        "imageWhite": "https://res.cloudinary.com/dioizs3xa/image/upload/v1746715771/Camelia_sinensis_Blanca_gris4x.png"
       }
     ]
   }
